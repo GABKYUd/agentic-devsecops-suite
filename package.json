@@ -1,0 +1,26 @@
+{
+  "name": "agentic-devsecops-suite",
+  "version": "1.0.0",
+  "description": "Autonomous Purple-Team Engineering & Vulnerability Validation Framework for AI Coding Assistants",
+  "main": ".agents/mcp/server.js",
+  "bin": {
+    "devsecops-mcp": ".agents/mcp/server.js"
+  },
+  "scripts": {
+    "start": "node .agents/mcp/server.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "devsecops",
+    "purple-team",
+    "appsec",
+    "mitre-attack",
+    "cwe",
+    "agentic-ai",
+    "security-audit"
+  ],
+  "author": "KYO INC (Gabriel Kyo)",
+  "license": "MIT"
+}

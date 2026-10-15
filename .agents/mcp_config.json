@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "devsecops-knowledge": {
+      "command": "node",
+      "args": ["./.agents/mcp/server.js"],
+      "env": {}
+    }
+  }
+}
